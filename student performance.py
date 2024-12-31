@@ -98,7 +98,6 @@ print(f"""
 #%%printing coeficient and intercept of the model
 print(f"model intercept is : {my_model.intercept_}")
 print(f"model coeficient is : {my_model.coef_}")
-#print(f"equation is ")
 
 
 
